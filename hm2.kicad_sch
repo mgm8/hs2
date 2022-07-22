@@ -1,0 +1,21 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 542ddcf2-4158-4d14-ad8a-1805dd61b103)
+
+  (paper "A4")
+
+  (title_block
+    (title "Boss HM-2")
+    (date "2022-07-21")
+    (rev "v0.1")
+    (comment 1 "Author: Gabriel Mariano Marcelino <gabriel.mm8@gmail.com>")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
