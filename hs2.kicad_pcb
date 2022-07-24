@@ -6,8 +6,8 @@
 
   (paper "A4")
   (title_block
-    (title "Boss HM-2")
-    (date "2022-07-21")
+    (title "HS2")
+    (date "2022-07-24")
     (rev "v0.1")
     (comment 1 "Author: Gabriel Mariano Marcelino <gabriel.mm8@gmail.com>")
   )
