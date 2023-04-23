@@ -11,13 +11,13 @@ on:
     - "*.kicad_sch"
     - "*.kicad_pcb"
     - "*.kicad_pro"
-    - "*kibot.yml"
+    - "kibot.yml"
   pull_request:
     paths:
     - "*.kicad_sch"
     - "*.kicad_pcb"
     - "*.kicad_pro"
-    - "*kibot.yml"
+    - "kibot.yml"
 
 env:
   schema: "*.kicad_sch"
