@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-    <img width="70%" src="https://github.com/mgm8/hs2/blob/main/docs/hs2-overview.png">
+    <img width="70%" src="https://github.com/mgm8/hs2/blob/main/docs/hs2-pcb-small.png">
 </p>
 
 ## Overview
