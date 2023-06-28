@@ -23,12 +23,26 @@
 </p>
 
 <p align="center">
-    <img width="70%" src="https://github.com/mgm8/hs2/blob/main/docs/hs2-pcb-small.png">
+    <img width="70%" src="https://github.com/mgm8/hs2/blob/main/docs/hs2-overview.png">
 </p>
 
 ## Overview
 
 This is an analog guitar pedal based on the Boss HM-2, using the schematics of the project "[The Swede](https://buildyourownclone.myshopify.com/products/the-swede)" as main reference.
+
+## PCB
+
+The Printed Circuit Board of version v1.0 of the project can be seen below:
+
+<p align="center">
+    <img width="70%" src="https://github.com/mgm8/hs2/blob/main/docs/hs2-pcb2-small.png">
+</p>
+
+This PCB was a courtesy of [PCBWay](https://www.pcbway.com/).
+
+<p align="center">
+    <img width="30%" src="https://images.squarespace-cdn.com/content/59b037304c0dbfb092fbe894/1574271594427-FP7DAMAL16OKY1YGF144/pcbway_logo.png">
+</p>
 
 ## Bill of Materials
 
